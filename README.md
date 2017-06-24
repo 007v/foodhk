@@ -11,7 +11,7 @@ aim:
     relation between average cost and popularity & rating 
 
 project dvp procedure:
-1. run spider scripts available
+1. run existing spiders
 2. read dj's paper on chips & wine bbs
 
 
