@@ -10,6 +10,11 @@ aim:
 3. economics
     relation between average cost and popularity & rating 
 
+learning outcome:
+1. write a spider
+2. get a glimpse of sentiment analysis, discourse analysis, sociolinguistics & NLP
+
+
 project dvp procedure:
 1. run existing spiders
 2. read dj's paper on chips & wine bbs
